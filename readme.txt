@@ -1,6 +1,6 @@
-=== Feed 2 Post ===
+=== Feed To Post ===
 Contributors: Himanshu
-Donate link: http://whatisblog.info/
+Donate link: http://whatisblog.info/donate-2
 Tags: post, feed, auto
 Requires at least: 2.1
 Tested up to: 2.3
